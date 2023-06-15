@@ -11,6 +11,8 @@ infoProyectos.forEach((proyecto) => {
 
   let img = document.createElement("img");
   img.classList.add("card-img-top");
+  img.style.width = "296px"
+  img.style.height = "180px"
   img.src = proyecto.img;
   img.alt = "..."
 
@@ -42,7 +44,7 @@ infoProyectos.forEach((proyecto) => {
   a2.classList.add("btn-primary");
   a2.target = "_blank"
   a2.href= proyecto.live;
-  a2.innerHTML = "En acción!";
+  a2.innerHTML = "!En acción!";
   
 
   cardBody.appendChild(h4);
