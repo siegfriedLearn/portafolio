@@ -44,7 +44,7 @@ infoProyectos.forEach((proyecto) => {
   a2.classList.add("btn-primary");
   a2.target = "_blank"
   a2.href= proyecto.live;
-  a2.innerHTML = "!En acción!";
+  a2.innerHTML = "¡En acción!";
   
 
   cardBody.appendChild(h4);
