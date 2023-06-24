@@ -6,7 +6,7 @@ infoProyectos.forEach((proyecto) => {
   let tarjeta = document.createElement("div");
   tarjeta.classList.add("card");
   tarjeta.classList.add("bg-light");
-  tarjeta.classList.add("mb-3");
+  tarjeta.classList.add("m-3");
   tarjeta.style = "max-width: 20rem;";
   
 
