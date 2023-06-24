@@ -13,7 +13,7 @@ export const infoProyectos = [
         "descripcion": "Proyecto que simula el movimiento de los ojos siguiendo el movimiento del mouse de un lado a otro en el navegador.",
         "repositorio": "https://github.com/siegfriedLearn/eyeMovement",
         "live": "https://siegfriedlearn.github.io/eyeMovement/",
-        "img": "./img/eyeMovement.png"
+        "img": "./img/eyeMovement2.png"
 
     },
     {
