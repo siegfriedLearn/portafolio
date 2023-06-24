@@ -8,6 +8,7 @@ infoProyectos.forEach((proyecto) => {
   tarjeta.classList.add("bg-light");
   tarjeta.classList.add("mb-3");
   tarjeta.style = "max-width: 20rem;";
+  
 
   let img = document.createElement("img");
   img.classList.add("card-img-top");
