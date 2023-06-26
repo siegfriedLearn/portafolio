@@ -3,7 +3,7 @@ export const infoProyectos = [
         "id":1,
         "proyecto": "Pacman",
         "titulo": "Pacman",
-        "descripcion": "Cada vez que presionas 'Add pacman' se agregara un pacman en la pantalla y al presionar 'Start Game' estos empezaran a recorrer el lienzo rebotando los bordes.",
+        "descripcion": "Cada vez que presionas 'Add pacman' se agregará un pacman en la pantalla y al presionar 'Start Game' estos empezarán a recorrer el lienzo rebotando en los bordes.",
         "repositorio": "https://github.com/siegfriedLearn/pacmanFactory",
         "live": "https://siegfriedlearn.github.io/pacmanFactory/",
         "img": "./img/pacman.png"
