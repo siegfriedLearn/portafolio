@@ -3,7 +3,7 @@ export const infoProyectos = [
         "id":1,
         "proyecto": "Pacman",
         "titulo": "Pacman",
-        "descripcion": "Proyecto que contiene una fábrica de Pacman, cada vez que presionas 'Add pacman' se agregara un pacman en la pantalla y al presionar 'Start Game' estos empezaran a recorrer el lienzo rebotando de un lado a otro",
+        "descripcion": "Cada vez que presionas 'Add pacman' se agregara un pacman en la pantalla y al presionar 'Start Game' estos empezaran a recorrer el lienzo rebotando los bordes.",
         "repositorio": "https://github.com/siegfriedLearn/pacmanFactory",
         "live": "https://siegfriedlearn.github.io/pacmanFactory/",
         "img": "./img/pacman.png"
@@ -12,7 +12,7 @@ export const infoProyectos = [
         "id":2,
         "proyecto": "Eye movement",
         "titulo": "Eye movement",
-        "descripcion": "Proyecto que simula el movimiento de los ojos siguiendo el movimiento del mouse de un lado a otro en el navegador.",
+        "descripcion": "Este proyecto lo que hace es simular el movimiento de los ojos siguiendo el puntero del mouse de un lado a otro en el navegador.",
         "repositorio": "https://github.com/siegfriedLearn/eyeMovement",
         "live": "https://siegfriedlearn.github.io/eyeMovement/",
         "img": "./img/eyeMovement2.png"
