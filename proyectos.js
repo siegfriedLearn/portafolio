@@ -1,5 +1,6 @@
 export const infoProyectos = [
     {
+        "id":1,
         "proyecto": "Pacman",
         "titulo": "Pacman",
         "descripcion": "Proyecto que contiene una fábrica de Pacman, al presionar Start Game recorren el lienzo rebotando de un lado a otro.",
@@ -8,6 +9,7 @@ export const infoProyectos = [
         "img": "./img/pacman.png"
     },
     {
+        "id":2,
         "proyecto": "Eye movement",
         "titulo": "Eye movement",
         "descripcion": "Proyecto que simula el movimiento de los ojos siguiendo el movimiento del mouse de un lado a otro en el navegador.",
@@ -17,6 +19,7 @@ export const infoProyectos = [
 
     },
     {
+        "id":3,
         "proyecto": "Map animation",
         "titulo": "El Re-corrido del caballo blanco",
         "descripcion": "Es un mapa que muestra el recorrido que hace el caballo blanco en la canción de Jose Alfredo Jiménez.",

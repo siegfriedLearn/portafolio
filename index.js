@@ -7,6 +7,7 @@ infoProyectos.forEach((proyecto) => {
   tarjeta.classList.add("card");
   tarjeta.classList.add("bg-light");
   tarjeta.classList.add("m-3");
+  tarjeta.setAttribute("id", proyecto.id)
   tarjeta.style = "max-width: 20rem;";
   
 
