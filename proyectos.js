@@ -3,7 +3,7 @@ export const infoProyectos = [
         "id":1,
         "proyecto": "Pacman",
         "titulo": "Pacman",
-        "descripcion": "Proyecto que contiene una fábrica de Pacman, al presionar Start Game recorren el lienzo rebotando de un lado a otro.",
+        "descripcion": "Proyecto que contiene una fábrica de Pacman, cada vez que presionas 'Add pacman' se agregara un pacman en la pantalla y al presionar 'Start Game' estos empezaran a recorrer el lienzo rebotando de un lado a otro",
         "repositorio": "https://github.com/siegfriedLearn/pacmanFactory",
         "live": "https://siegfriedlearn.github.io/pacmanFactory/",
         "img": "./img/pacman.png"
@@ -21,8 +21,8 @@ export const infoProyectos = [
     {
         "id":3,
         "proyecto": "Map animation",
-        "titulo": "El Re-corrido del caballo blanco",
-        "descripcion": "Es un mapa que muestra el recorrido que hace el caballo blanco en la canción de Jose Alfredo Jiménez.",
+        "titulo": "El Recorrido del caballo blanco",
+        "descripcion": "Mapa que muestra el recorrido que hace 'El caballo blanco' por México tomado de la canción de Jose Alfredo Jiménez.",
         "repositorio": "https://github.com/siegfriedLearn/horseStops",
         "live": "https://siegfriedlearn.github.io/horseStops/",
         "img": "./img/horseStops.png"
